@@ -1,4 +1,6 @@
-# MTM_WS_Card_Holder
+# MTM_WS_Accessories
+Accessories include Workshop System Computer Card Holders, Camera Adapters, and possibly more to come?
+
 A Case for the Music Thing Modular Workshop System Computer Cards.
 ![photo of the 3 card and 4 card cases](assets/img/PXL_20250207_195110043.PORTRAIT.ORIGINAL.jpg)
 
